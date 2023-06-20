@@ -1,6 +1,14 @@
+@import "./utils/variables";
+@import "./utils/placeholders";
 @import "./base/reset";
 @import "./base/common";
-@import "./base/container"
+@import "./base/container";
+@import "./base/sections";
+@import "./layout/header";
+@import "./layout/hero";
+@import "./layout/partners";
+@import "./components/hero-button";
+@import "./components/partner-button";
 
 
 
