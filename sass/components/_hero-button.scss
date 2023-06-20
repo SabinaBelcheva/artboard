@@ -1,0 +1,13 @@
+.hero__button {
+  font-size: 13.9987px;
+  line-height: 17px;
+  color: #ffffff;
+  background-color: #ff4e50;
+  border: none;
+  padding: 13px 38px;
+  border-radius: 50px;
+
+  @media screen and (min-widht:768px) {
+    font-size: 15px;
+  }
+}
